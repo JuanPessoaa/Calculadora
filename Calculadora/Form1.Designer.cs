@@ -141,9 +141,10 @@
             // 
             // label4
             // 
-            this.label4.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.label4.BackColor = System.Drawing.Color.Transparent;
             this.label4.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.label4.Font = new System.Drawing.Font("Arial", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.ForeColor = System.Drawing.Color.Black;
             this.label4.Location = new System.Drawing.Point(412, 383);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(200, 45);
