@@ -122,5 +122,26 @@
   <ItemGroup>
     <None Include="Resources\sair %281%29.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Degradê-Esquerdo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Degradê-Esquerdo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Degradê-Esquerdo%281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Degradê-Esquerdo%281%291.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
