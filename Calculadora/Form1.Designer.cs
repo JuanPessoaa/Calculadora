@@ -87,7 +87,7 @@
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Arial", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(187, 151);
+            this.label1.Location = new System.Drawing.Point(185, 151);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(272, 24);
             this.label1.TabIndex = 4;
@@ -118,11 +118,11 @@
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.Color.Transparent;
             this.label2.Font = new System.Drawing.Font("Arial", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(187, 194);
+            this.label2.Location = new System.Drawing.Point(182, 195);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(272, 24);
+            this.label2.Size = new System.Drawing.Size(278, 24);
             this.label2.TabIndex = 6;
-            this.label2.Text = "Digite o primeiro múmero:";
+            this.label2.Text = "Digite o segundo múmero:";
             this.label2.UseWaitCursor = true;
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
