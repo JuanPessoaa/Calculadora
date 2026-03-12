@@ -210,9 +210,10 @@
             this.label5.Font = new System.Drawing.Font("Arial", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.Location = new System.Drawing.Point(954, 696);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(42, 24);
+            this.label5.Size = new System.Drawing.Size(49, 24);
             this.label5.TabIndex = 13;
-            this.label5.Text = "MB";
+            this.label5.Text = "MB!";
+            this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // Form1
             // 
