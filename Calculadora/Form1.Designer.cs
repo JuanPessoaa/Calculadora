@@ -194,7 +194,7 @@
             this.pictureBox1.BackgroundImage = global::Calculadora.Properties.Resources.images_removebg_preview;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox1.InitialImage = null;
-            this.pictureBox1.Location = new System.Drawing.Point(860, 12);
+            this.pictureBox1.Location = new System.Drawing.Point(849, 21);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(136, 85);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
